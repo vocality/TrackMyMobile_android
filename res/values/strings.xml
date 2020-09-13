@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="server_status">Server status:</string>
+    <string name="location">Location:</string>
+    <string name="last_update">Last update:</string>
+    <string name="start_tracking">Start Tracking Location</string>
+    <string name="stop_tracking">Stop Tracking Location</string>
+    <string name="hint_name">Name</string>
+
+    <!-- Preference Titles -->
+    <string name="gps_title">GPS</string>
+    <string name="server_title">Remote server</string>
+    <string name="local_db_title">Local DB</string>
+
+    <!-- GPS Preferences -->
+    <string name="location_req_interval_title">Location Request Interval</string>
+
+    <!-- Server Preferences -->
+    <string name="save_server_title">Enable save locations</string>
+    <string name="server_url">Remote server url</string>
+
+    <!-- Local DB Preferences -->
+    <string name="save_local_db">Enable save locations</string>
+
+
+</resources>

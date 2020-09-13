@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="server_status">Statut serveur:</string>
+    <string name="location">Localisation:</string>
+    <string name="last_update">Mise à jour:</string>
+    <string name="start_tracking">Démarrer Localisation</string>
+    <string name="stop_tracking">Arrêter Localisation</string>
+    <string name="server_url">Remote server url</string>
+</resources>
